@@ -1,3 +1,3 @@
-const myArray =[ [' John', 23], [' cat', 2] ];
-myArray.push([' Cs', 3]);
-console.log(myArray);
+const myArray =[ "[  [  'John', 23   ],  [  'cat', 2  ],"];
+myArray.push(" [  'Cs', 1  ]  ]");
+console.log(...myArray);
