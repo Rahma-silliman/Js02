@@ -1,3 +1,2 @@
-let first = "This is the start";
-let myStr = first + " This is the end"
+let myStr = "This is the start" + " This is the end"
 console.log(myStr);
